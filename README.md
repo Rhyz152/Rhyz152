@@ -1,5 +1,5 @@
 ## About me
-I'm a programmer in the UK who is into **data science.**
+I'm a programmer in the UK who is into **software enginnering.**
 
 Some of my interests are:
   * Minecraft ⛏️
