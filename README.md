@@ -11,12 +11,12 @@ My current languages are:
   * Python 🐍
   * Luau (main) 👾
 
-I have 1.5 years of experience with Luau whilst 6 months of Python.
+I have 2 years of experience with Luau whilst 6 months of Python.
 
 ## Contact
 If you want to contact me then I'm available at these times:
-  * Monday-Thursday: 3:50PM - 7:20PM 🏫
-  * Friday-Sunday: 12:40AM - 8:20PM 🛏️
-  * Holidays + National holidays: 12:30PM - 8:30PM ☀️
+*  Weekdays: 4:30PM - 7:30PM 🏫
+*  Weekends: 1:30PM-6:30PM 🌇
+*  Holidays & breaks: 12:30PM-4:30PM ☀️
 
 **For more info on Luau, you can see my portfolio (in profile links).**
