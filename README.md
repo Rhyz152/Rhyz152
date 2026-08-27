@@ -1,5 +1,5 @@
 ## About me
-I'm a programmer in the UK who is into **software enginnering.**
+I'm a programmer and content creator in the UK who is into **software engineering.**
 
 Some of my interests are:
   * Minecraft ⛏️
@@ -8,10 +8,9 @@ Some of my interests are:
 
 ## Knowledge
 My current languages are:
+  * C++
   * Python 🐍
-  * Luau (main) 👾
-
-I have 2 years of experience with Luau whilst 6 months of Python.
+  * Luau 👾
 
 ## Contact
 If you want to contact me then I'm available at these times:
