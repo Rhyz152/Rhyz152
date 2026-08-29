@@ -1,14 +1,16 @@
 ## About me
-I'm a programmer and content creator in the UK who is into **software engineering.**
+I'm a programmer in the UK who is into **software engineering ⚙️.**
 
-Some of my interests are:
+Some of my favorite games, interests, etc are:
+  * Content creation 📸
   * Minecraft ⛏️
   * Deltarune ❤️
   * Pixel art 🖊️
+  * Anime 👘
 
 ## Knowledge
-My current languages are:
-  * C++
+My known programming languages are:
+  * C++ 🩵
   * Python 🐍
   * Luau 👾
 
@@ -18,4 +20,4 @@ If you want to contact me then I'm available at these times:
 *  Weekends: 1:30PM-6:30PM 🌇
 *  Holidays & breaks: 12:30PM-4:30PM ☀️
 
-**For more info on Luau, you can see my portfolio (in profile links).**
+**For Luau commissions, check out my portfolio (in profile links)!**
