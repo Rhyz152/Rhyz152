@@ -2,7 +2,6 @@
 I'm a programmer in the UK who is into **software engineering ⚙️.**
 
 Some of my favorite games, interests, etc are:
-  * Content creation 📸
   * Minecraft ⛏️
   * Deltarune ❤️
   * Pixel art 🖊️
